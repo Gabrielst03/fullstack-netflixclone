@@ -30,7 +30,7 @@ Imagens
 - Next.js
 - TailwindCSS
 - useSWR/Axios
-- PostgreSQl
+- PostgreSQL
 - Prisma ORM
 
 ## Funcionalidades
